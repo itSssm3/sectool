@@ -6848,7 +6848,8 @@
         "release_tag": "v1.071",
         "release_date": "2024-05-27 07:49:56",
         "release_message": "ssl证书小问题修复\r\n\r\n其他版本可自行编译一下~\r\n\r\n\r\n😁",
-        "updated_at": "2024-09-16 14:44:13"
+        "updated_at": "2024-09-16 14:44:13",
+        "bucket": true
     },
     "https://github.com/theLSA/CS-checklist": {
         "created_at": "2020-08-09 09:02:00",
