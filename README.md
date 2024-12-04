@@ -3124,7 +3124,7 @@
 ### OB解混淆
 - <img src="https://favicon.qqsuu.cn/tool.yuanrenxue.cn" alt="" style="height: 20px;"> [解混淆测试版](https://tool.yuanrenxue.cn/decode_obfuscator) 
 ### RPC
-- <img src="https://favicon.qqsuu.cn/github.com" alt="" style="height: 20px;"> [JsRpc v1.071](https://github.com/jxhczhl/JsRpc) 远程调用(rpc)浏览器方法，免去抠代码补环境
+- <img alt="" src="https://avatars.githubusercontent.com/u/16618068?s=20" width="20" height="20">|<img src="https://favicon.qqsuu.cn/github.com" alt="" style="height: 20px;"> [JsRpc v1.071](https://github.com/jxhczhl/JsRpc) 远程调用(rpc)浏览器方法，免去抠代码补环境
 - <img src="https://favicon.qqsuu.cn/github.com" alt="" style="height: 20px;"> [sekiro-open v3.20240311](https://github.com/yint-tech/sekiro-open) SEKIRO is a multi-language, distributed, network topology-i...
 ### cookie hook
 - <img src="https://favicon.qqsuu.cn/github.com" alt="" style="height: 20px;"> [js-cookie-monitor-debugger-hook v0.11](https://github.com/JSREI/js-cookie-monitor-debugger-hook) js cookie逆向利器：js cookie变动监控可视化工具 & js cookie ...
